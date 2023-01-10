@@ -1,0 +1,26 @@
+body
+{
+     background-size: cover;
+}
+
+h1{
+    font-size: 45 !important;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 140, 255);
+    line-height: 3;
+    text-align: center;
+}
+
+canvas
+{
+    border:2px solid rgb(75, 166, 240);
+    border-radius: 13px;
+    margin-top: 133px;
+    box-shadow: 5px 5px 5px aqua;
+}
